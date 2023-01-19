@@ -18,3 +18,8 @@ int main(){
 
     return 0;
 }
+
+OUTPUT
+enter your no
+10
+Sum of n natural no=55
